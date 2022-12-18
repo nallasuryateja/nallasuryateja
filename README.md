@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @nallasuryateja
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Full stack development course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me linkedin(see in Bio)
-Present Working On React Capstone project
+- Present Working On React Capstone project
 
 
 ## 🌐 Socials:
