@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 - 👋 Hi, I’m @nallasuryateja
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full stack development course
+- 🌱 I’m currently Working as a Software Engineer
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me linkedin(see in Bio)
-- Present Working On React Capstone project
+- Present Working On Android Development
 
 
 ## 🌐 Socials:
